@@ -1,0 +1,39 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "7f7a94b9",
+   "metadata": {},
+   "source": [
+    "## Solution:\n",
+    "```python\n",
+    "def solve(s):\n",
+    "    for x in s[:].split():\n",
+    "        s = s.replace(x, x.capitalize())\n",
+    "    return s\n",
+    "```"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
