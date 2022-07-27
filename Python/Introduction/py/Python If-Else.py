@@ -1,0 +1,90 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "e342bb38",
+   "metadata": {},
+   "source": [
+    "## Task\n",
+    "Given an integer, , perform the following conditional actions:\n",
+    "\n",
+    "* If n is odd, print Weird\n",
+    "* If n is even and in the inclusive range of  to , print Not Weird\n",
+    "* If n is even and in the inclusive range of  to , print Weird\n",
+    "* If n is even and greater than , print Not Weird\n",
+    "\n",
+    "Input Format\n",
+    "\n",
+    "A single line containing a positive integer, .\n",
+    "\n",
+    "Constraints\n",
+    "```\n",
+    "1 <= b <= 100\n",
+    "```\n",
+    "Output Format\n",
+    "\n",
+    "Print Weird if the number is weird. Otherwise, print Not Weird.\n",
+    "\n",
+    "Sample Input 0\n",
+    "```\n",
+    "3\n",
+    "```\n",
+    "Sample Output 0\n",
+    "```\n",
+    "Weird\n",
+    "```\n",
+    "Explanation 0\n",
+    "\n",
+    "n = 3\n",
+    "\n",
+    "n is odd and odd numbers are weird, so print Weird.\n",
+    "\n",
+    "Sample Input 1\n",
+    "```\n",
+    "24\n",
+    "```\n",
+    "Sample Output 1\n",
+    "```\n",
+    "Not Weird\n",
+    "```\n",
+    "Explanation 1\n",
+    "\n",
+    "n = 24\n",
+    "\n",
+    "n > 24 and n is even, so it is not weird.\n",
+    "\n",
+    "\n",
+    "## Solution:\n",
+    "```python\n",
+    "if (n % 2 == 1) | (6 <= n <= 20):\n",
+    "    print(\"Weird\")\n",
+    "elif n >= 2 & n <= 5:\n",
+    "    print(\"Not Weird\")\n",
+    "elif n > 20:\n",
+    "    print()\n",
+    "```"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
