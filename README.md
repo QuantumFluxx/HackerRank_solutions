@@ -36,6 +36,16 @@ This repository contains solutions to Hackerrank practice problems with Python 3
   
 </details>
 
+
+# SQL
+
+<details>
+<summary>:desktop_computer: <strong>📘 Сlick to view solutions</strong> </summary>
+  
+* [Basic Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Select)
+
+</details>
+
 -------------
 
 **🥋 Also see [Codewars](https://github.com/QuantumFluxx/codewars_solutions) solutions.**
