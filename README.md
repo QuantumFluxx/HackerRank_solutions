@@ -10,40 +10,36 @@
 
 ## Solutions to Hackerrank practice problems
 
-This repository contains solutions to Hackerrank practice problems with Python 3.
+This repository contains solutions to Hackerrank practice problems with Python 3 and SQL.
 
-# Python
+## HackerRank Badges
+
+![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
+![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
+
+## Python
 
 <details>
-<summary>:desktop_computer: <strong>🐍 Сlick to view solutions</strong> </summary>
+<summary><strong>🐍 Сlick to view content</strong> </summary>
   
 * [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Introduction)
-  + [Say 'Hello, World!' With Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Say%20'Hello%2C%20World!'%20With%20Python.ipynb)
-  + [Python If-Else](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Python%20If-Else.ipynb)
-  + [Arithmetic Operators](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Arithmetic%20Operators.ipynb)
-  + [Python Division](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Python%20Division.ipynb)
-  + [Loops](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Loops.ipynb)
-  + [Write a function](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Write%20a%20function.ipynb)
-  + [Print Function](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Introduction/Print%20Function.ipynb)
-  
 * [Basic Data Types](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Basic%20Data%20Types)
-  + [List Comprehensions](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/List%20Comprehensions.ipynb)
-  + [Find the Runner-Up Score!](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!.ipynb)
-  + [Nested Lists](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/Nested%20Lists.ipynb)
-  + [Finding the percentage](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/Finding%20the%20percentage.ipynb)
-  + [Lists](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/Lists.ipynb)
-  + [Tuples](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Python/Basic%20Data%20Types/Tuples.ipynb)
+* [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Strings)
+* [Sets](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Sets)
+  
   
 </details>
 
 
-# SQL
+## SQL
 
 <details>
-<summary>:desktop_computer: <strong>📘 Сlick to view solutions</strong> </summary>
+<summary><strong>📘 Сlick to view content</strong> </summary>
   
 * [Basic Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Select)
-
+* [Advanced Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Select)
+* [Aggregation](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Aggregation)
+* [Basic Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Join)
 </details>
 
 -------------
