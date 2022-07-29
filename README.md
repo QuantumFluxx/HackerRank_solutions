@@ -56,7 +56,7 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 
 ## Linux Shell
 <details>
-<summary> <kbd>Сlick to view content</kbd> </summary>
+<summary> <kbd>🐧Сlick to view content</kbd> </summary>
 
 ### Solutions
 * [Bash](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Bash)
