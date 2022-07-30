@@ -12,7 +12,7 @@
 
 ## Solutions to Hackerrank practice problems
 
-This repository contains solutions to Hackerrank practice problems with Python 3 and SQL.
+This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell and SQL.
 
 ## HackerRank Badges
 
@@ -25,7 +25,10 @@ This repository contains solutions to Hackerrank practice problems with Python 3
     <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
 <a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/SQL%20(basic).png">
-    <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_basic_skill.png" alt="Python (Basic) Certificate"/>
+    <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
+</a>
+<a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/Problem%20Solving%20(Basic)%20Certificate.png">
+    <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/problem_solving_basic_skill.png" alt="Problem solving (Basic) Certificate"/>
 </a>
 
 ## Python
@@ -37,7 +40,8 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Basic Data Types](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Basic%20Data%20Types)
 * [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Strings)
 * [Sets](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Sets)
-  
+* [Math](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Math)
+* [Itertools](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Itertools)
   
 </details>
 
