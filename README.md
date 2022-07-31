@@ -15,9 +15,14 @@
 This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell, Ruby and SQL.
 
 ## HackerRank Badges
+<div id="badges" align="center">
 
 ![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
 ![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
+
+</div>
+
+<div id="badges" align="center">
 
 ## HackerRank Certificates
 
@@ -30,6 +35,8 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 <a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/Problem%20Solving%20(Basic)%20Certificate.png">
     <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/problem_solving_basic_skill.png" alt="Problem solving (Basic) Certificate"/>
 </a>
+
+</div>
 
 ## 10 Days of Statistics
 
@@ -76,6 +83,8 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Advanced Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Select)
 * [Aggregation](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Aggregation)
 * [Basic Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Join)
+* [Advanced Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Join)
+* [Alternative Queries](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Alternative%20Queries)
     
 </details>
 
