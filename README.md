@@ -12,7 +12,7 @@
 
 ## Solutions to Hackerrank practice problems
 
-This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell and SQL.
+This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell, Ruby and SQL.
 
 ## HackerRank Badges
 
@@ -30,6 +30,27 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 <a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/Problem%20Solving%20(Basic)%20Certificate.png">
     <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/problem_solving_basic_skill.png" alt="Problem solving (Basic) Certificate"/>
 </a>
+
+## 10 Days of Statistics
+
+<details>
+<summary><kbd>🔟 Сlick to view content</kbd></summary>
+
+* [Day 0 - Mean, Median, and Mode](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode.py)
+* [Day 0 - Weighted Mean](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%200%20-%20Weighted%20Mean.py)
+    
+</details>
+
+## 30 Days of Code (Python)
+
+<details>
+<summary><kbd>3️⃣0️⃣ Сlick to view content</kbd></summary>
+    
+* [Day 0 - Hello, World](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%200%20-%20Hello%2C%20World.py)
+* [Day 1 - Data Types](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%201%20-%20Data%20Types.py)
+* [Day 2 - Operators](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%202%20-%20Operators.py)
+    
+</details>
 
 ## Python
 
@@ -55,8 +76,20 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Advanced Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Select)
 * [Aggregation](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Aggregation)
 * [Basic Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Join)
+    
 </details>
 
+## Ruby
+
+<details>
+<summary><kbd>💎 Сlick to view content</kbd></summary>
+
+* [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Introduction)
+* [Control Structures](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Control%20Structures)
+* [Arrays and Hashes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Arrays%20and%20Hashes)
+* [Enumerables](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Enumerables)
+    
+</details>
 
 ## Linux Shell
 <details>
