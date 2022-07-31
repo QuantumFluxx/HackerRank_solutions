@@ -59,6 +59,15 @@ This repository contains solutions to Hackerrank practice problems with Python 3
     
 </details>
 
+## Algorithms
+
+<details>
+<summary><kbd>🔧 Сlick to view content</kbd></summary>
+
+* [Warmup](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
+
+</details>
+
 ## Python
 
 <details>
