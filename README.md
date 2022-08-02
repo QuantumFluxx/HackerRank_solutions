@@ -99,7 +99,10 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Sets](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Sets)
 * [Math](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Math)
 * [Itertools](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Itertools)
-  
+* [Date and Time](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Date%20and%20Time)
+* [Errors and Exceptions](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Errors%20and%20Exceptions)
+* [Classes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Classes)
+
 </details>
 
 
