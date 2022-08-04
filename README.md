@@ -116,6 +116,16 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 
 </details>
 
+## Java
+
+<details>
+<summary><kbd>⚱️ Сlick to view content</kbd></summary>
+   
+ * [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Introduction)   
+ * [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
+    
+</details>
+
 ## Python
 
 <details>
@@ -135,7 +145,6 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [XML](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/XML)
     
 </details>
-
 
 ## SQL
 
@@ -184,6 +193,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 
 </details>
 
+
+
 -------------
 
-**🥋 Also see [Codewars](https://github.com/QuantumFluxx/codewars_solutions) solutions.**
+**🥋 Also see [Codewars](https://github.com/QuantumFluxx/codewars_solutions) and [LeetCode](https://github.com/QuantumFluxx/LeetCode_solutions) solutions.**
