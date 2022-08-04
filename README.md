@@ -12,10 +12,13 @@
 
 ## Solutions to Hackerrank practice problems
 
-This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell, Ruby and SQL.
+This repository contains solutions to Hackerrank practice problems with Python 3, Linux Shell, Ruby, JavaScript and SQL.
 
-## HackerRank Badges
+My profile: https://www.hackerrank.com/QuantumFluxx
+
 <div id="badges" align="center">
+    
+## HackerRank Badges
 
 ![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
 ![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
@@ -51,7 +54,16 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Day 02 - Conditional Statements - If-Else](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2002%20-%20Conditional%20Statements%20-%20If-Else.js)
 * [Day 02 - Conditional Statements - Switch](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2002%20-%20Conditional%20Statements%20-%20Switch.js)
 * [Day 02 - Loops](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2002%20-%20Loops.js)
-    
+* [Day 03 - Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2003%20-%20Arrays.js)
+* [Day 03 - Throw](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2003%20-%20Throw.js)
+* [Day 03 - Try, Catch, and Finally](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2003%20-%20Try%2C%20Catch%2C%20and%20Finally.js)
+* [Day 04 - Classes](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2004%20-%20Classes.js)
+* [Day 04 - Count Objects](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2004%20-%20Count%20Objects.js)
+* [Day 04 - Create a Rectangle Object](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2004%20-%20Create%20a%20Rectangle%20Object.js)
+* [Day 05 - Arrow Functions](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Arrow%20Functions.js)
+* [Day 05 - Inheritance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Inheritance.js)
+* [Day 05 - Template Literals](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Template%20Literals.js)
+
 </details>
 
 ## 10 Days of Statistics
@@ -64,6 +76,16 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Day 01 - Interquartile Range](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2001%20-%20Interquartile%20Range.py)
 * [Day 01 - Quartiles](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2001%20-%20Quartiles.py)
 * [Day 01 - Standard Deviation](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2001%20-%20Standard%20Deviation.py)
+* [Day 02 - Basic Probability](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2002%20-%20Basic%20Probability.py)
+* [Day 02 - Compound Event Probability](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2002%20-%20Compound%20Event%20Probability.py)
+* [Day 02 - More Dice](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2002%20-%20More%20Dice.py)
+* [Day 03 - Cards of the Same Suit](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2003%20-%20Cards%20of%20the%20Same%20Suit.py)
+* [Day 03 - Conditional Probability](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2003%20-%20Conditional%20Probability.py)
+* [Day 03 - Drawing Marbles](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2003%20-%20Drawing%20Marbles.py)
+* [Day 04 - Binomial Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Binomial%20Distribution%20I.py)
+* [Day 04 - Binomial Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Binomial%20Distribution%20II.py)
+* [Day 04 - Geometric Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Geometric%20Distribution%20I.py)
+* [Day 04 - Geometric Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Geometric%20Distribution%20II.py)
     
 </details>
 
@@ -76,6 +98,9 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Day 01 - Data Types](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%201%20-%20Data%20Types.py)
 * [Day 02 - Operators](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%202%20-%20Operators.py)
 * [Day 03 - Intro to Conditional Statements](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2003%20-%20Intro%20to%20Conditional%20Statements.py)
+* [Day 04 - Class vs Instance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2004%20-%20Class%20vs%20Instance.py)
+* [Day 05 - Loops](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2005%20-%20Loops.py)
+* [Day 06 - Let's Review](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2006%20-%20Let's%20Review.py)
     
 </details>
 
@@ -84,7 +109,8 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 <details>
 <summary><kbd>🔧 Сlick to view content</kbd></summary>
 
-* [Warmup](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
+* [Warmup 10/10](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
+* [Implementation 40/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
 
 </details>
 
@@ -102,7 +128,9 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 * [Date and Time](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Date%20and%20Time)
 * [Errors and Exceptions](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Errors%20and%20Exceptions)
 * [Classes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Classes)
-
+* [Built-Ins](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Built-Ins)
+* [Python Functionals](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Python%20Functionals)
+    
 </details>
 
 
