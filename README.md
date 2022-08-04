@@ -2,6 +2,8 @@
 
 <div id="badges" align="center">
 
+
+[![HackerRank](https://img.shields.io/badge/website-HackerRank-9cf)](https://www.hackerrank.com/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/HackerRank_solutions)
@@ -130,6 +132,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Classes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Classes)
 * [Built-Ins](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Built-Ins)
 * [Python Functionals](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Python%20Functionals)
+* [XML](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/XML)
     
 </details>
 
