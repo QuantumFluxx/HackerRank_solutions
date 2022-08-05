@@ -65,7 +65,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 05 - Arrow Functions](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Arrow%20Functions.js)
 * [Day 05 - Inheritance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Inheritance.js)
 * [Day 05 - Template Literals](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Template%20Literals.js)
-
+* [Day 06 - Bitwise Operators](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2006%20-%20Bitwise%20Operators.js)
+* [Day 06 - JavaScript Dates](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2006%20-%20JavaScript%20Dates.js)
+    
 </details>
 
 ## 10 Days of Statistics
@@ -88,6 +90,10 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 04 - Binomial Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Binomial%20Distribution%20II.py)
 * [Day 04 - Geometric Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Geometric%20Distribution%20I.py)
 * [Day 04 - Geometric Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2004%20-%20Geometric%20Distribution%20II.py)
+* [Day 05 - Normal Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Normal%20Distribution%20I.py)
+* [Day 05 - Normal Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Normal%20Distribution%20II.py)
+* [Day 05 - Poisson Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Poisson%20Distribution%20I.py)
+* [Day 05 - Poisson Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Poisson%20Distribution%20II.py)
     
 </details>
 
@@ -103,6 +109,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 04 - Class vs Instance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2004%20-%20Class%20vs%20Instance.py)
 * [Day 05 - Loops](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2005%20-%20Loops.py)
 * [Day 06 - Let's Review](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2006%20-%20Let's%20Review.py)
+* [Day 07 - Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2007%20-%20Arrays.py)
     
 </details>
 
