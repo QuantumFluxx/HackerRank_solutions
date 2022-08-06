@@ -24,6 +24,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 
 ![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
 ![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
+![10 Days of Statistics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_statistics_5_star.png)
 
 </div>
 
@@ -67,6 +68,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 05 - Template Literals](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2005%20-%20Template%20Literals.js)
 * [Day 06 - Bitwise Operators](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2006%20-%20Bitwise%20Operators.js)
 * [Day 06 - JavaScript Dates](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2006%20-%20JavaScript%20Dates.js)
+* [Day 07 - Regular Expressions I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20I.js)
+* [Day 07 - Regular Expressions II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20II.js)
+* [Day 07 - Regular Expressions III](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20III.js)
     
 </details>
 
@@ -94,6 +98,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 05 - Normal Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Normal%20Distribution%20II.py)
 * [Day 05 - Poisson Distribution I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Poisson%20Distribution%20I.py)
 * [Day 05 - Poisson Distribution II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2005%20-%20Poisson%20Distribution%20II.py)
+* [Day 06 - The Central Limit Theorem I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20I.py)
+* [Day 06 - The Central Limit Theorem II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20II.py)
+* [Day 06 - The Central Limit Theorem III](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20III.py)
     
 </details>
 
@@ -110,6 +117,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 05 - Loops](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2005%20-%20Loops.py)
 * [Day 06 - Let's Review](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2006%20-%20Let's%20Review.py)
 * [Day 07 - Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2007%20-%20Arrays.py)
+* [Day 08 - Dictionaries and Maps](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2008%20-%20Dictionaries%20and%20Maps.py)
     
 </details>
 
@@ -128,8 +136,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <details>
 <summary><kbd>⚱️ Сlick to view content</kbd></summary>
    
- * [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Introduction)   
- * [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
+ * [Introduction 13/13](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Introduction)   
+ * [Strings 2/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
     
 </details>
 
@@ -138,18 +146,19 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <details>
 <summary><kbd>🐍 Сlick to view content</kbd></summary>
   
-* [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Introduction)
-* [Basic Data Types](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Basic%20Data%20Types)
-* [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Strings)
-* [Sets](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Sets)
-* [Math](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Math)
-* [Itertools](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Itertools)
-* [Date and Time](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Date%20and%20Time)
-* [Errors and Exceptions](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Errors%20and%20Exceptions)
-* [Classes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Classes)
-* [Built-Ins](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Built-Ins)
-* [Python Functionals](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Python%20Functionals)
-* [XML](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/XML)
+* [Introduction 7/7](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Introduction)
+* [Basic Data Types 6/6](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Basic%20Data%20Types)
+* [Strings 14/14](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Strings)
+* [Sets 13/13](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Sets)
+* [Math 7/7](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Math)
+* [Itertools 7/7](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Itertools)
+* [Date and Time 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Date%20and%20Time)
+* [Errors and Exceptions 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Errors%20and%20Exceptions)
+* [Classes 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Classes)
+* [Built-Ins 6/6](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Built-Ins)
+* [Python Functionals 3/3](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Python%20Functionals)
+* [Regex and Parsing 17/17](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Regex%20and%20Parsing)
+* [XML 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/XML)
     
 </details>
 
@@ -158,12 +167,12 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <details>
 <summary><kbd>📘 Сlick to view content</kbd></summary>
   
-* [Basic Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Select)
-* [Advanced Select](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Select)
-* [Aggregation](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Aggregation)
-* [Basic Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Join)
-* [Advanced Join](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Join)
-* [Alternative Queries](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Alternative%20Queries)
+* [Basic Select 20/20](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Select)
+* [Advanced Select 5/5](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Select)
+* [Aggregation 17/17](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Aggregation)
+* [Basic Join 8/8](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Basic%20Join)
+* [Advanced Join 5/5](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Advanced%20Join)
+* [Alternative Queries 3/3](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/SQL/Alternative%20Queries)
     
 </details>
 
@@ -172,12 +181,12 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <details>
 <summary><kbd>💎 Сlick to view content</kbd></summary>
 
-* [Introduction](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Introduction)
-* [Control Structures](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Control%20Structures)
-* [Arrays and Hashes](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Arrays%20and%20Hashes)
-* [Enumerables](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Enumerables)
-* [Methods](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Methods)
-* [Strings](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Strings)
+* [Introduction 4/4](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Introduction)
+* [Control Structures 5/5](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Control%20Structures)
+* [Arrays and Hashes 9/9](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Arrays%20and%20Hashes)
+* [Enumerables 6/6](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Enumerables)
+* [Methods 11/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Methods)
+* [Strings 6/6](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Ruby/Strings)
     
 </details>
 
@@ -186,10 +195,10 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary> <kbd>🐧Сlick to view content</kbd> </summary>
 
 ### Solutions
-* [Bash](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Bash)
-* [Text Processing](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Text%20Processing)
-* [Arrays in Bash](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Arrays%20in%20Bash)
-* [Grep Sed Awk](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Grep%20Sed%20Awk)
+* [Bash 11/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Bash)
+* [Text Processing 32/32](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Text%20Processing)
+* [Arrays in Bash 8/8](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Arrays%20in%20Bash)
+* [Grep Sed Awk 14/14](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Linux%20Shell/Grep%20Sed%20Awk)
 
 ### Tutorials and Relevant Materials
 * [Shell Scripting video tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
