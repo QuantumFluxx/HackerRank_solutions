@@ -25,6 +25,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 ![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
 ![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
 ![10 Days of Statistics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_statistics_5_star.png)
+![10 Days of JS](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_javascript_5_star.png)
 
 </div>
 
@@ -71,6 +72,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 07 - Regular Expressions I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20I.js)
 * [Day 07 - Regular Expressions II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20II.js)
 * [Day 07 - Regular Expressions III](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2007%20-%20Regular%20Expressions%20III.js)
+* [Day 08 - Buttons Container](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2008%20-%20Buttons%20Container.js)
+* [Day 08 - Create a Button](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2008%20-%20Create%20a%20Button.js)
+* [Day 09 - Binary Calculator](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Javascript/Day%2009%20-%20Binary%20Calculator.js)
     
 </details>
 
@@ -101,6 +105,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 06 - The Central Limit Theorem I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20I.py)
 * [Day 06 - The Central Limit Theorem II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20II.py)
 * [Day 06 - The Central Limit Theorem III](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2006%20-%20The%20Central%20Limit%20Theorem%20III.py)
+* [Day 07 - Pearson Correlation Coefficient I](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2007%20-%20Pearson%20Correlation%20Coefficient%20I.py)
+* [Day 07 - Spearman's Rank Correlation](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2007%20-%20Spearman's%20Rank%20Correlation.py)
     
 </details>
 
@@ -118,6 +124,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 06 - Let's Review](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2006%20-%20Let's%20Review.py)
 * [Day 07 - Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2007%20-%20Arrays.py)
 * [Day 08 - Dictionaries and Maps](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2008%20-%20Dictionaries%20and%20Maps.py)
+* [Day 09 - Recursion 3](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2009%20-%20Recursion%203.py) 
     
 </details>
 
