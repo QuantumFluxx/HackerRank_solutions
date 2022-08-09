@@ -39,6 +39,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/SQL%20(basic).png">
     <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
 </a>
+<a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/SQL%20(Intermediate)%20Certificate.png">
+    <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+</a>
 <a href="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Skill%20Certifications/Problem%20Solving%20(Basic)%20Certificate.png">
     <img src="https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/problem_solving_basic_skill.png" alt="Problem solving (Basic) Certificate"/>
 </a>
@@ -109,7 +112,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 07 - Spearman's Rank Correlation](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2007%20-%20Spearman's%20Rank%20Correlation.py)
 * [Day 08 - Least Square Regression Line](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2008%20-%20Least%20Square%20Regression%20Line.py)
 * [Day 08 - Pearson Correlation Coefficient II](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2008%20-%20Pearson%20Correlation%20Coefficient%20II.py)
-
+* [Day 09 - Multiple Linear Regression](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/10%20Days%20of%20Statistics/Day%2009%20-%20Multiple%20Linear%20Regression.py)
+    
 </details>
 
 ## 30 Days of Code (Python)
@@ -128,7 +132,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 08 - Dictionaries and Maps](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2008%20-%20Dictionaries%20and%20Maps.py)
 * [Day 09 - Recursion 3](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2009%20-%20Recursion%203.py) 
 * [Day 10 - Binary Numbers](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2010%20-%20Binary%20Numbers.py)
-
+* [Day 11 - 2D Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2011%20-%202D%20Arrays.py)
+   
 </details>
 
 ## Algorithms
@@ -137,7 +142,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>🔧 Сlick to view content</kbd></summary>
 
 * [Warmup 10/10](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
-* [Implementation 40/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
+* [Implementation 50/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
 
 </details>
 
@@ -147,7 +152,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>⚱️ Сlick to view content</kbd></summary>
    
  * [Introduction 13/13](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Introduction)   
- * [Strings 2/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
+ * [Strings 6/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
     
 </details>
 
@@ -169,6 +174,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Python Functionals 3/3](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Python%20Functionals)
 * [Regex and Parsing 17/17](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Regex%20and%20Parsing)
 * [XML 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/XML)
+* [Closures and Decorators 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Closures%20and%20Decorators)
+* [Debugging 2/2](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Python/Debugging)    
     
 </details>
 
