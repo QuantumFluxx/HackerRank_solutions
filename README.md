@@ -133,7 +133,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 09 - Recursion 3](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2009%20-%20Recursion%203.py) 
 * [Day 10 - Binary Numbers](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2010%20-%20Binary%20Numbers.py)
 * [Day 11 - 2D Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2011%20-%202D%20Arrays.py)
-   
+* [Day 12 - Inheritance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2012%20-%20Inheritance.py)
+* [Day 13 - Abstract Classes](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2013%20-%20Abstract%20Classes.py)
+    
 </details>
 
 ## Algorithms
@@ -142,7 +144,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>🔧 Сlick to view content</kbd></summary>
 
 * [Warmup 10/10](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
-* [Implementation 50/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
+* [Implementation 56/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
 
 </details>
 
