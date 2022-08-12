@@ -135,6 +135,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 11 - 2D Arrays](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2011%20-%202D%20Arrays.py)
 * [Day 12 - Inheritance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2012%20-%20Inheritance.py)
 * [Day 13 - Abstract Classes](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2013%20-%20Abstract%20Classes.py)
+* [Day 14 - Scope](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2014%20-%20Scope.py)
     
 </details>
 
@@ -144,7 +145,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>🔧 Сlick to view content</kbd></summary>
 
 * [Warmup 10/10](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
-* [Implementation 56/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
+* [Implementation 60/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
 
 </details>
 
