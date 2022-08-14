@@ -26,6 +26,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 ![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
 ![10 Days of Statistics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_statistics_5_star.png)
 ![10 Days of JS](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_javascript_5_star.png)
+![Problem Solving](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Problem_Solving_6_star.png)
 
 </div>
 
@@ -136,7 +137,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 12 - Inheritance](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2012%20-%20Inheritance.py)
 * [Day 13 - Abstract Classes](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2013%20-%20Abstract%20Classes.py)
 * [Day 14 - Scope](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2014%20-%20Scope.py)
-    
+* [Day 15 - Linked List](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2015%20-%20Linked%20List.py)
+* [Day 16 - Exceptions - String to Integer](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer.py)
+
 </details>
 
 ## Algorithms
@@ -145,8 +148,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>🔧 Сlick to view content</kbd></summary>
 
 * [Warmup 10/10](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Warmup)
-* [Implementation 60/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
-
+* [Implementation 66/66](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Implementation)
+* [Strings 26/48](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Algorithms/Strings)
 </details>
 
 ## Java
