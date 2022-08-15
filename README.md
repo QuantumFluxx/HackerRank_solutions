@@ -27,7 +27,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 ![10 Days of Statistics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_statistics_5_star.png)
 ![10 Days of JS](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_javascript_5_star.png)
 ![Problem Solving](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Problem_Solving_6_star.png)
-
+![Java](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Java_5_star.png)
+    
 </div>
 
 <div id="badges" align="center">
@@ -139,7 +140,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 14 - Scope](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2014%20-%20Scope.py)
 * [Day 15 - Linked List](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2015%20-%20Linked%20List.py)
 * [Day 16 - Exceptions - String to Integer](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer.py)
-
+* [Day 17 - More Exceptions](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2017%20-%20More%20Exceptions.py)
+    
 </details>
 
 ## Algorithms
@@ -158,7 +160,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 <summary><kbd>⚱️ Сlick to view content</kbd></summary>
    
  * [Introduction 13/13](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Introduction)   
- * [Strings 6/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
+ * [Strings 10/11](https://github.com/QuantumFluxx/HackerRank_solutions/tree/main/Java/Strings)   
     
 </details>
 
@@ -231,8 +233,6 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Quick guide to shell scripts](http://www.panix.com/~elflord/unix/bash-tute.html)
 
 </details>
-
-
 
 -------------
 
