@@ -141,7 +141,8 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 15 - Linked List](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2015%20-%20Linked%20List.py)
 * [Day 16 - Exceptions - String to Integer](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer.py)
 * [Day 17 - More Exceptions](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2017%20-%20More%20Exceptions.py)
-    
+* [Day 18 - Queues and Stacks](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2018%20-%20Queues%20and%20Stacks.py)
+
 </details>
 
 ## Algorithms
