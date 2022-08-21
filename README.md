@@ -145,7 +145,9 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 19 - Interfaces](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2019%20-%20Interfaces.py)
 * [Day 20 - Sorting](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2020%20-%20Sorting.py)
 * [Day 21 - Generics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2021%20-%20Generics.java)    
-    
+* [Day 22 - Binary Search Trees](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2022%20-%20Binary%20Search%20Trees.py)
+* [Day 23 - BST Level-Order Traversal](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2023%20-%20BST%20Level-Order%20Traversal.py)
+
 </details>
 
 ## Algorithms
