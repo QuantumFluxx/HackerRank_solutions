@@ -150,6 +150,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 24 - More Linked Lists](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2024%20-%20More%20Linked%20Lists.py)
 * [Day 25 - Running Time and Complexity](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2025%20-%20Running%20Time%20and%20Complexity.py)
 * [Day 26 - Nested Logic](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2026%20-%20Nested%20Logic.py)
+* [Day 27 - Testing](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2027%20-%20Testing.py)
 
 </details>
 
