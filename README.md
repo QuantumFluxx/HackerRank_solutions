@@ -151,6 +151,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 25 - Running Time and Complexity](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2025%20-%20Running%20Time%20and%20Complexity.py)
 * [Day 26 - Nested Logic](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2026%20-%20Nested%20Logic.py)
 * [Day 27 - Testing](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2027%20-%20Testing.py)
+* [Day 28 - RegEx, Patterns, and Intro to Databases](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.py)
 
 </details>
 
