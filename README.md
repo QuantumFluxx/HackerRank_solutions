@@ -22,16 +22,17 @@ My profile: https://www.hackerrank.com/QuantumFluxx
     
 ## HackerRank Badges
 
-![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
-![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
 ![10 Days of Statistics](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_statistics_5_star.png)
 ![10 Days of JS](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/10_days_of_javascript_5_star.png)
-![Problem Solving](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Problem_Solving_6_star.png)
+![30 Days of code](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/30_days_of_code_5_star.png)
 ![Java](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Java_5_star.png)
+![Problem Solving](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/Problem_Solving_6_star.png)
+![Python](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/python_5_star.png)
+![SQL](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/Badges/sql_5_star.png)
     
 </div>
 
-<div id="badges" align="center">
+<div id="Certificates" align="center">
 
 ## HackerRank Certificates
 
@@ -152,6 +153,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 * [Day 26 - Nested Logic](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2026%20-%20Nested%20Logic.py)
 * [Day 27 - Testing](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2027%20-%20Testing.py)
 * [Day 28 - RegEx, Patterns, and Intro to Databases](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.py)
+* [Day 29 - Bitwise AND](https://github.com/QuantumFluxx/HackerRank_solutions/blob/main/30%20days%20of%20code/Python/Day%2029%20-%20Bitwise%20AND.py)
 
 </details>
 
