@@ -177,7 +177,7 @@ My profile: https://www.hackerrank.com/QuantumFluxx
     
 </details>
 
-## Python
+## Pуthon
 
 <details>
 <summary><kbd>🐍 Сlick to view content</kbd></summary>
