@@ -249,4 +249,4 @@ My profile: https://www.hackerrank.com/QuantumFluxx
 
 -------------
 
-**🥋 Also see [Codewars](https://github.com/QuantumFluxx/codewars_solutions) and [LeetCode](https://github.com/QuantumFluxx/LeetCode_solutions) solutions.**
+**🥋 Also see [Codewars](https://github.com/QuantumFluxx/codewars_solutions) and [LeetCode](https://github.com/QuantumFluxx/LeetCode_solutions) solutions**
